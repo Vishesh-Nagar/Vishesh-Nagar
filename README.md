@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Vishesh-Nagar<br>👀 I’m interested in Web Development and DSA<br>🌱 I’m currently learning nextJS and TypeScript<br>💞️ I’m looking to collaborate on and tackling real-world problems<br>📫 How to reach me: linkedin.com/in/vishesh-nagar<br>😄 Pronouns: he/him
+Hi, I’m Vishesh Nagar. I’m passionate about web development and data structures and algorithms. I’m currently learning Next.js and TypeScript to build more efficient and scalable applications. I enjoy collaborating on projects that solve real-world problems and help me grow as a developer.
 
 
 ## 🌐 Socials:
